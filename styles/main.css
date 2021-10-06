@@ -2,6 +2,7 @@
 
 .fish {
     color: blue;
+    flex: wrap;
 }
 
 .fish__name {
